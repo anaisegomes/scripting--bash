@@ -1,0 +1,7 @@
+Comandos:
+
+man bash  
+
+Manual do bash
+
+vim 
