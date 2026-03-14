@@ -4,4 +4,8 @@ man bash
 
 Manual do bash
 
-vim 
+q 
+
+quite 
+
+# sair 
