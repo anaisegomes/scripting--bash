@@ -1,11 +1,92 @@
-Comandos:
+Comandos Bash
 
 man bash  
 
-Manual do bash
+# Manual do bash
 
 q 
 
 quite 
 
 # sair 
+
+
+ls 
+
+# lista arquivos e pastas
+
+pwd 
+
+# mostra o diretório atual
+
+
+cd
+
+# muda o diretório
+
+cd .. 
+
+# volta um diretório
+
+
+cd ~ 
+
+# vai para o diretório home
+
+____________________________________________
+
+# Manipulação de arquivos:
+
+touch 
+
+# cria arquivo vazio
+
+# exemplo:
+
+touch arquivo.txt
+
+
+
+cp 
+
+# copia arquivos/pastas
+
+# exemplo: 
+
+cp arquivo.txt backup/
+
+
+mv 
+
+# move ou renomeia
+
+# rm arquivo.txt
+
+
+rm -r 
+
+#b remove pastas recursivamente 
+
+# exemplo:
+
+#rm -r pasta/
+
+
+mkdir 
+
+# cria diretorio
+
+# exemplo:
+
+mkdir nova_pasta
+
+
+
+rmdir 
+
+# remove diretório vazio
+
+# exemplo:
+rmdir pasta_vazia
+
+
